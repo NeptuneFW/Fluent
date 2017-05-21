@@ -158,6 +158,28 @@
 .fl-c-purple-18 { background-color:#190019; }
 .fl-c-purple-19 { background-color:#0c000c; }
 
+.fl-c-grey-1 { background-color:#f2f2f2; }
+.fl-c-grey-2 { background-color:#e5e5e5; }
+.fl-c-grey-3 { background-color:#d8d8d8; }
+.fl-c-grey-4 { background-color:#cccccc; }
+.fl-c-grey-5 { background-color:#bfbfbf; }
+.fl-c-grey-6 { background-color:#b2b2b2; }
+.fl-c-grey-7 { background-color:#a6a6a6; }
+.fl-c-grey-8 { background-color:#999999; }
+.fl-c-grey-9 { background-color:#8c8c8c; }
+.fl-c-grey-10 { background-color:#808080; }
+.fl-c-grey-11 { background-color:#737373; }
+.fl-c-grey-12 { background-color:#666666; }
+.fl-c-grey-13 { background-color:#595959; }
+.fl-c-grey-14 { background-color:#4c4c4c; }
+.fl-c-grey-15 { background-color:#404040; }
+.fl-c-grey-16 { background-color:#333333; }
+.fl-c-grey-17 { background-color:#262626; }
+.fl-c-grey-18 { background-color:#191919; }
+.fl-c-grey-19 { background-color:#0c0c0c; }
+
+.fl-c-white { background-color: #ffffff; }
+
 .fl-c-t-red-1 { color:#ffe5e5; }
 .fl-c-t-red-2 { color:#ffcccc; }
 .fl-c-t-red-3 { color:#ffb2b2; }
@@ -317,3 +339,25 @@
 .fl-c-t-purple-17 { color:#260026; }
 .fl-c-t-purple-18 { color:#190019; }
 .fl-c-t-purple-19 { color:#0c000c; }
+
+.fl-c-t-grey-1 { color:#f2f2f2; }
+.fl-c-t-grey-2 { color:#e5e5e5; }
+.fl-c-t-grey-3 { color:#d8d8d8; }
+.fl-c-t-grey-4 { color:#cccccc; }
+.fl-c-t-grey-5 { color:#bfbfbf; }
+.fl-c-t-grey-6 { color:#b2b2b2; }
+.fl-c-t-grey-7 { color:#a6a6a6; }
+.fl-c-t-grey-8 { color:#999999; }
+.fl-c-t-grey-9 { color:#8c8c8c; }
+.fl-c-t-grey-10 { color:#808080; }
+.fl-c-t-grey-11 { color:#737373; }
+.fl-c-t-grey-12 { color:#666666; }
+.fl-c-t-grey-13 { color:#595959; }
+.fl-c-t-grey-14 { color:#4c4c4c; }
+.fl-c-t-grey-15 { color:#404040; }
+.fl-c-t-grey-16 { color:#333333; }
+.fl-c-t-grey-17 { color:#262626; }
+.fl-c-t-grey-18 { color:#191919; }
+.fl-c-t-grey-19 { color:#0c0c0c; }
+
+.fl-c-t-white { color: #ffffff; }
